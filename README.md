@@ -1,2 +1,2 @@
-# 3-JornadaJ
-Grupo de estudo formadores em ação, terceira Jornada grupo J
+# programacao2022-3tri
+##Repositório para guardar o projeto feito na formação Ensino Médio
