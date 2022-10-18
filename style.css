@@ -3,7 +3,7 @@ body {
 }
 
 .texto-principal {
-    margin-right: 20%; 
+    margin-right: 20%;
 }
 
 h1 {
@@ -30,7 +30,7 @@ p {
 	text-decoration: underline;
 }
 .texto-principal {
-    margin-right: 20%; 
+    margin-right: 20%;
 }
 
 h1 {
@@ -55,4 +55,7 @@ p {
 .itens {
 	color: blue;
 	text-decoration: underline;
+}
+.Logo {
+  width: 30%
 }
